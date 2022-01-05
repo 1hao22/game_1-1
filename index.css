@@ -1,0 +1,46 @@
+*{
+    font-family: 'cwTeXYen';
+    font-weight: 700;
+}
+.background{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1194px;
+height: 834px;
+}
+.leave{
+    position: absolute;
+    left: 1068px;
+    top: 74px;    
+}
+.sidebar{
+    position: absolute;
+    top: 250px;
+    left: 0px;
+}
+.start{
+    position: absolute;
+    left: 194.44px; 
+    top: 605px;
+}
+.p1{
+    color:rgb(101, 101, 101) ;
+    font-size: 30px;
+    line-height: 40px;
+    position: absolute;
+    top: 380px;
+    left: 50px;
+    width: 440px;
+    letter-spacing: 1px;
+}
+.p2{
+    color:rgb(101, 101, 101) ;
+    font-size: 28px;
+    line-height: 40px;
+    position: absolute;
+    top: 430px;
+    left: 50px;
+    width: 410px;
+    letter-spacing: 1px;
+}
